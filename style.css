@@ -54,7 +54,7 @@ header ul li a:hover {
 }
 .gambarbg {
     height:80vh;
-    background-image: url('img/gambarbg.png');
+    background-image: url('gambarbg.png');
     background-size: cover;
     position:relative;
     display: flex;
@@ -227,7 +227,7 @@ footer {
 .label {
     background-color: rgb(10, 0, 151);
     color:#fff;
-    background-image: url('img/gambar.png');
+    background-image: url('gambar.png');
     background-size: cover;
 }
 @media screen and (max-width: 768px){
