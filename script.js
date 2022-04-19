@@ -12,7 +12,7 @@ function nonTo() {document.getElementById('tombo').style.display = "none";} func
   var o=0,text3;
   text3 = "...                                        "
   var a=0,text4;
-  text4 = "Be My Pasan Always "
+  text4 = "I Love U "
 
   function ketik() {
     if(i<text.length){
@@ -49,7 +49,7 @@ function nonTo() {document.getElementById('tombo').style.display = "none";} func
       setTimeout(duar,250);
     }
     if(a==text4.length){
-    document.getElementById("text4").innerHTML = "Be My Pasan Always &#9829;";
+    document.getElementById("text4").innerHTML = "I Love U &#9829;";
     document.body.style.backgroundColor = "#0059B9";
     document.getElementById('fire').style.opacity = "1";
     fotoKt();}
